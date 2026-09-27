@@ -1,5 +1,7 @@
 # Guide complet : Obtenir un certificat à la fin d'une formation du NCSC UK
 
+<img width="1600" height="900" alt="NCSC New Proactive Notifications Service reports vulnerabilities to system owners (2) (1)" src="https://github.com/user-attachments/assets/128ac4c5-3209-40a3-8734-0e1359da6f8e" />
+
 > Ce guide détaille comment obtenir une certification ou un certificat de fin de formation auprès du **National Cyber Security Centre (NCSC)** du Royaume-Uni, notamment via son portail de conseils et de formation : [https://www.ncsc.gov.uk/section/advice-guidance/all-topics](https://www.ncsc.gov.uk/section/advice-guidance/all-topics).
 
 ---
